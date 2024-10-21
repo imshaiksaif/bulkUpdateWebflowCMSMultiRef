@@ -1,0 +1,13 @@
+{
+  "name": "webflowBulkMultiRefCMSUpdate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/handler.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs-extra": "^11.2.0"
+  }
+}
